@@ -10,6 +10,8 @@ Queries to learn new tech and do project.<br/><br/>
 I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
+📡**How to contact me :**
+You can reach out me on [Gmail](sudarshanjadhav9171@gmail.com)
 💭 **Fun fact about me :** <br/>
 I like to use Dark Humor in my codes.<br/>
 <br/>
