@@ -1,9 +1,9 @@
 # 👋 Hi, I'm SUDARSHAN!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/>
-👩🏻‍🎓 Studing A.I.M.L. at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/>
-🎨 Queries to learn new tech and do project.<br/>
-🔭 You can contact on my [LinkedIn](https://www.linkedin.com/in/sudarshan-jadhav-133613258/)<br/>
-💭 Fun fact about me : I like to use Dark Humor in my codes.<br/>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/><br/>
+👩🏻‍🎓 Studing A.I.M.L. at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
+🎨 Queries to learn new tech and do project.<br/><br/>
+🔭 You can contact on my [LinkedIn](https://www.linkedin.com/in/sudarshan-jadhav-133613258/)<br/><br/>
+💭 Fun fact about me : I like to use Dark Humor in my codes.<br/><br/>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -42,4 +42,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=SUDARSHAN9171&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nwaliaez&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SUDARSHAN9171&icon=0&color=0)](https://visitcount.itsvg.in)
