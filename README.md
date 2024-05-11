@@ -4,7 +4,7 @@
 Software Engineer sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
-🧠 ****
+🧠 **About Me**<br>
 Queries to learn new tech and do project.<br/><br/>
 👫 **Project Partner:**
 I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
