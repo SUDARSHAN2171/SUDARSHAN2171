@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SUDARSHAN!
 
-
-Software Engineer sharing about my journey and learnings in tech.<br/><br/>
+🧑🏻‍💼 **Myself :**
+ A.I.M.L Enthusias sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻 **Education :**<br>
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
 🧠 **About Me :**<br>
@@ -9,7 +9,7 @@ Queries to learn new tech and do project.<br/><br/>
 👫 **Project Partner :**<br>
 I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
 🗣️ **Ask Me About :**<br/>
-
+C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). 
 💭 **Fun fact about me :** <br/>
 I like to use Dark Humor in my codes.<br/><br/>
 
@@ -39,12 +39,18 @@ I like to use Dark Humor in my codes.<br/><br/>
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br/>
 
+# 🌐 My References 
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sudarshan9171)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/SUDARSHAN0010)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sudarshanjadhav9171/)
+[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@sudarshanjadhav9171)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24713969/sudarshan-jadhav)<br>
 # 🧑🏻‍💼 My Social Media 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_0010/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SUDARSH70963388)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@not_yet_0010)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-jadhav-133613258/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24713969/sudarshan-jadhav)<br> 
+<br> 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
