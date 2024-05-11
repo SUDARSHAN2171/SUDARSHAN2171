@@ -1,9 +1,15 @@
 # 👋 Hi, I'm SUDARSHAN!
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/><br/>
-👩🏻‍🎓 Studing A.I.M.L. at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
-🎨 Queries to learn new tech and do project.<br/><br/>
-🔭 You can contact on my [LinkedIn](https://www.linkedin.com/in/sudarshan-jadhav-133613258/)<br/><br/>
-💭 Fun fact about me : I like to use Dark Humor in my codes.<br/><br/>
+
+
+Software Engineer sharing about my journey and learnings in tech.<br/><br/>
+👩🏻‍💻
+Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
+🧠 ****
+Queries to learn new tech and do project.<br/><br/>
+👫 **Project Partner:**
+I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
+💭 **Fun fact about me :** <br/>
+I like to use Dark Humor in my codes.<br/><br/>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -24,7 +30,12 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)<br/>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br/>
 
 # 🧑🏻‍💼 My Social Media 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_0010/) 
