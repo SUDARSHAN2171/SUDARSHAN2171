@@ -1,6 +1,6 @@
 # 👋 Hi, I'm SUDARSHAN!
 
-🧑🏻‍💼 **Myself :**
+🧑🏻‍💼 **Myself :**<br/>
  A.I.M.L Enthusias sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻 **Education :**<br>
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
