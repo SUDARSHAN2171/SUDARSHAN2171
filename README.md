@@ -12,7 +12,8 @@ I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various projec
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 💭 **Fun fact about me :** <br/>
 I like to use Dark Humor in my codes.<br/><br/>
-
+[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=transparent)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
 
