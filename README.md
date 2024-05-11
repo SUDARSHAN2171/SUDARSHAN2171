@@ -11,7 +11,7 @@ I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various projec
 🗣️ **Ask Me About :**<br/>
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 📡**How to contact me :**<br/>
-You can reach out me on [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sudarshanjadhav9171@gmail.com)<br/><br/>
+You can reach out me on [Gmail](sudarshanjadhav9171@gmail.com)<br/><br/>
 💭 **Fun fact about me :** <br/>
 I like to use Dark Humor in my codes.<br/>
 <br/>
