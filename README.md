@@ -1,26 +1,26 @@
 # 👋 Hi, I'm SUDARSHAN!
-
+<!--SPRX77-->
 🧑🏻‍💼 **Myself :**<br/>
-
+<!--SPRX77-->
  A.I.M.L Enthusias sharing about my journey and learnings in tech.<br/><br/>
 👩🏻‍💻 **Education :**<br>
-
+<!--SPRX77-->
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
 🧠 **About Me :**<br>
-
+<!--SPRX77-->
 Queries to learn new tech and do project.<br/><br/>
 👫 **Project Partner :**<br>
-
+<!--SPRX77-->
 I work with [SAKSHI BIRANJE](https://github.com/SakshiBiranje) on various project and studies.<br/><br/>
 🗣️ **Ask Me About :**<br/>
-
+<!--SPRX77-->
 C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 💭 **Fun fact about me :** <br/>
-
+<!--SPRX77-->
 I like to use Dark Humor in my codes.<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
+[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
 
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
+[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,23 +59,27 @@ I like to use Dark Humor in my codes.<br/><br/>
 
 
 # 🧑🏻‍💼 My Social Media 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_0010/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_2/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SUDARSH70963388)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@not_yet_0010)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-jadhav-133613258/)
 <br/><br/> 
-
+<!--SPRX77-->
+<!--SPRX77-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN9171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHAN9171&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN9171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHAN2171&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--SPRX77-->
+<!--SPRX77-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SUDARSHAN9171&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<!--SPRX77-->
+<!--SPRX77-->
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SUDARSHAN9171&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SUDARSHAN2171&icon=0&color=0)](https://visitcount.itsvg.in)
 
