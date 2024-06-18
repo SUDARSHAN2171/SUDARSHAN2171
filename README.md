@@ -7,7 +7,7 @@
 <!--SPRX77-->
 Studing Computer Engineering in Artificial-intelligence at D.K.T.E. Textile & Engineering College Ichalkaranji.<br/><br/>
 🧠 **About Me :**<br>
-<!--SPRX77-->
+<!--If i found anybody copied my code will be very bad for that person so keep your dirty hands away from my beautiful code-->
 Queries to learn new tech and do project.<br/><br/>
 👫 **Project Partner :**<br>
 <!--SPRX77-->
