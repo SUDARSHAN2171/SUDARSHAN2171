@@ -79,3 +79,12 @@ I like to use Dark Humor in my codes.<br/><br/>
 <!--SPRX77-->
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDARSHAN2171&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+
