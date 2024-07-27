@@ -1,5 +1,5 @@
 ![Alt text](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">👋 Hi, I'm SUDARSHAN!</h1>
+# 👋 Hi, I'm SUDARSHAN!
 <!--SPRX77-->
 🧑🏻‍💼 **Myself :**<br/>
 <!--SPRX77-->
