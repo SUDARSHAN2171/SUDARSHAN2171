@@ -67,12 +67,12 @@ I like to use Dark Humor in my codes.<br/><br/>
 <!--SPRX77-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHAN2171&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SUDARSHAN2171&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 <!--SPRX77-->
 <!--SPRX77-->
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&radius=16&theme=react&area=true&order=5)
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&radius=16&theme=react&area=true&order=5)<br/>
 <!--SPRX77-->
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDARSHAN2171&icon=0&color=0)](https://visitcount.itsvg.in)
