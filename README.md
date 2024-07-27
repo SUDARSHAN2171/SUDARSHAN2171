@@ -19,7 +19,6 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 💭 **Fun fact about me :** <br/>
 <!--SPRX77-->
 I like to use Dark Humor in my codes.<br/><br/>
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)<br/><br/>
 <!--SPRX77-->
 [![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
 <!--SPRX77-->
