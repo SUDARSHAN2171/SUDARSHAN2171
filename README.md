@@ -20,7 +20,6 @@ C, C++, JAVA, Python, OOP, DSA, Web Development(Frontend). <br/><br/>
 <!--SPRX77-->
 I like to use Dark Humor in my codes.<br/><br/>
 <!--SPRX77-->
-[![](https://github-readme-stats.vercel.app/api?username=SUDARSHAN2171&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/><br/>
 <!--SPRX77-->
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
