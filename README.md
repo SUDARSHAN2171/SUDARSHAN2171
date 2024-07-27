@@ -58,10 +58,10 @@ I like to use Dark Humor in my codes.<br/><br/>
 <!--SPRX77-->
 <!--SPRX77-->
 # 🧑🏻‍💼 My Social Media 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-santaji-jadhav/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sudarshan_jadhav_2/) 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/SUDARSH70963388)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@not_yet_0010)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarshan-santaji-jadhav/)
 <br/><br/> 
 <!--SPRX77-->
 <!--SPRX77-->
@@ -72,7 +72,7 @@ I like to use Dark Humor in my codes.<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <!--SPRX77-->
 <!--SPRX77-->
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&bg_color=000000&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/>
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&bg_color=353747&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/>
 <!--SPRX77-->
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDARSHAN2171&icon=0&color=0)](https://visitcount.itsvg.in)
