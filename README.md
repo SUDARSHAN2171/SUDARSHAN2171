@@ -72,7 +72,7 @@ I like to use Dark Humor in my codes.<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SUDARSHAN2171&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 <!--SPRX77-->
 <!--SPRX77-->
-![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&bg_color=2D2F3D&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/>
+![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=SUDARSHAN2171&bg_color=000000&color=ffffff&line=ffa500&point=ffffff&area=true&hide_border=true)<br/>
 <!--SPRX77-->
 ---
 [![](https://visitcount.itsvg.in/api?id=SUDARSHAN2171&icon=0&color=0)](https://visitcount.itsvg.in)
